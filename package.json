@@ -1,0 +1,15 @@
+{
+  "name": "tempfly-phone-api",
+  "version": "1.0.0",
+  "description": "Monorepo for TempFly Phone API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "echo \"Linting...\"",
+    "typecheck": "echo \"Typechecking...\"",
+    "build": "echo \"Building...\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
